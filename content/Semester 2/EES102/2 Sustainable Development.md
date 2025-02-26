@@ -1,23 +1,18 @@
-
-
----
 ### **Sustainable Development**
-- Definition (Brundtland Report, 1987):  
+- **Definition (Brundtland Report, 1987):**  
   “Meeting the needs of the present without compromising the ability of future generations to meet their own needs.”  
-- Rio Meeting (1992):  
+- **Rio Meeting (1992):**  
   - Brought together environmentalists, politicians, workers, and representatives from wealthy and poor countries.  
   - Spread the idea of sustainable development globally.
 
----
-
 ### **Key Challenges**
-1. **Poverty**:  
+1. **Poverty:**  
    - **700 million people** live below the international poverty line of $1.90 per day.  
    - Poverty affects health, education, and quality of life.  
-2. **Affluence**:  
+2. **Affluence:**  
    - **USA**: 4.6% of the world’s population consumes 20% of all oil and produces 15% of CO₂ emissions.  
    - **China**: Rapid economic growth (from $200 to $12,000 GDP per capita) has reduced hunger but increased pollution.  
-   - **Ecological Footprint**:  
+   - **Ecological Footprint:**  
      - USA: 9.7 gha/person.  
      - China: 2.1 gha/person.  
      - **Implication**: If China emulates American consumption, it would require **10 billion gha** (more than Earth’s biocapacity).  
@@ -31,12 +26,12 @@
 ---
 
 ### **Examples of Sustainable Development**
-1. **Renewable Energy**:  
+1. **Renewable Energy:**  
    - **Kenya**: Over 50% of electricity from geothermal, wind, and solar.  
    - **Uruguay**: 95% renewable electricity.  
    - **Costa Rica**: Approaching 100% renewable energy.  
    - **Nicaragua**: Aiming for 90% renewable energy by 2020.  
-2. **Economic Growth Without Resource Depletion**:  
+2. **Economic Growth Without Resource Depletion:**  
    - Growth in arts, education, services, and leisure can improve lives with minimal environmental impact.  
 
 ---
@@ -51,7 +46,7 @@
 
 ### **UN Sustainable Development Goals (SDGs)**
 - **17 Goals**: Aim to eliminate poverty, promote health, education, gender equality, clean energy, and biodiversity by 2030.  
-- **Examples**:  
+- **Examples:**  
   - **Goal 1**: End poverty and ensure access to basic services.  
   - **Goal 7**: Affordable and clean energy.  
   - **Goal 13**: Climate action.  
@@ -60,33 +55,33 @@
 ---
 
 ### **Millennium Development Goals (2000-2015)**
-- **Achievements**:  
+- **Achievements:**  
   - Extreme poverty dropped from 50% to 14% in developing countries.  
   - Undernourishment reduced from 23% to 13%.  
   - Primary school enrollment increased from 83% to 91%.  
-- **Challenges**:  
+- **Challenges:**  
   - 40% of the world still lacks access to piped drinking water.  
 
 ---
 
 ### **Role of Wealthy Countries**
-- **Jeffery Sachs (UN Millennium Development Project)**:  
+- **Jeffery Sachs (UN Millennium Development Project):**  
   - Ending extreme poverty by 2025 requires wealthy countries to donate **0.7% of their national income**.  
   - **Current U.S. Contribution**: 0.1% of GDP.  
 - **Estimated Cost**: $135 billion/year to abolish extreme poverty and infectious diseases.  
-  - **Comparison**:  
+  - **Comparison:**  
     - U.S. oil subsidies: $120 billion/year.  
     - Global military spending: $1 trillion/year.  
 
 ---
 
 ### **What Can You Do?**
-1. **Reduce Ecological Footprint**:  
+1. **Reduce Ecological Footprint:**  
    - Adopt sustainable consumption habits.  
    - Support renewable energy and conservation efforts.  
-2. **Advocate for Equity**:  
+2. **Advocate for Equity:**  
    - Promote fair trade and equitable resource distribution.  
-3. **Support SDGs**:  
+3. **Support SDGs:**  
    - Participate in local and global initiatives to achieve the 17 SDGs.  
 
 ---
@@ -108,5 +103,6 @@
 
 ---
 
+### **External Links**
 - [UN Sustainable Development Goals](https://www.globalgoals.org/take-action/?id=1)  
-- [Ecological Footprint Calculator](https://www.footprintcalculator.org/home/en)
+- [Ecological Footprint Calculator](https://www.footprintcalculator.org/home/en)  
