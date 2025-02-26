@@ -1,7 +1,4 @@
-
----
-
-### **What is Environmental Science?**
+### What is Environmental Science?
 
 Environmental science is the **systematic study** of the environment and the ways in which humans depend on and influence it. It integrates **natural sciences**, **social sciences**, and **humanities** to address environmental issues such as pollution, biodiversity loss, and climate change.
 
