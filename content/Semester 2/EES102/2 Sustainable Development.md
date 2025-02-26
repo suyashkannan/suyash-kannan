@@ -3,7 +3,7 @@
 ---
 
 ### **Sustainable Development**
-- **Definition (Brundtland Report, 1987)**:  
+- **Definition: (Brundtland Report, 1987)**:  
   “Meeting the needs of the present without compromising the ability of future generations to meet their own needs.”  
 - **Rio Meeting (1992)**:  
   - Brought together environmentalists, politicians, workers, and representatives from wealthy and poor countries.  
