@@ -7,7 +7,9 @@ This is where I upload all my notes, articles and blogs mostly related to sleigh
 - [[00 SEMESTER 1]]
 - [[01 SEMESTER 2]]
 ## Independent Reading Projects
-- [[Ankylosauria]]
+- [[Long Live The Allosaur King]]
+- [[On Fake Dinosaurs]]
+- [[Weird Dinosaurs]]
 
 
 
