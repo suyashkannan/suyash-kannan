@@ -1,16 +1,25 @@
-# Welcome to My Vault
+
+# Welcome to my vault
 
 This is where I upload all my notes, articles and blogs mostly related to sleight-of-hand card magic and dinosaurs. 
+
+![[Pasted image 20250307230123.png]]
 
 # Table of Contents
 ## Class Notes
 - [[00 SEMESTER 1]]
 - [[01 SEMESTER 2]]
-## Independent Reading Projects
-- [[Long Live The Allosaur King]]
+## Dinosaur Stuff 🦖
+- [[The Lord of Lizard Eaters - Saurophaganax maximus]]
 - [[On Fake Dinosaurs]]
 - [[Weird Dinosaurs]]
 
+## Random Notes
+- [[On Infatuation and Love]]
+- [[Logical Fallacies]]
 
-
-
+## Card Magic
+- [[1 My Repertoire]]
+- [[3 How I got into Card Magic]]
+- [[2 The Challenge Mindset]]
+- [[4 Mastering Equivoque]]
