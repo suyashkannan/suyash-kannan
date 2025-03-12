@@ -1,6 +1,7 @@
 reference: https://www.youtube.com/watch?v=CQa8sNZJmhg
-# Why are crushes so painful?
-Crushes make people behave irrationally. Crushes hurt.
+
+![[Pasted image 20250312153156.png]]
+
 1. Crystallization and Fantasy:
 	- The ability to imagine is a vital component in the early stages of passionate love. 
 	- Crystallization - the process of idolizing someone until we are completely infatuated with them. 

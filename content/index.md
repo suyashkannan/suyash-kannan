@@ -13,6 +13,7 @@ This is where I upload all my notes, articles and blogs mostly related to sleigh
 - [[The Lord of Lizard Eaters - Saurophaganax maximus]]
 - [[On Fake Dinosaurs]]
 - [[Weird Dinosaurs]]
+- [[GEOL104 - Course on Dinosaur History by Thomas Holts]]
 
 ## Random Notes
 - [[On Infatuation and Love]]
@@ -20,6 +21,6 @@ This is where I upload all my notes, articles and blogs mostly related to sleigh
 
 ## Card Magic
 - [[1 My Repertoire]]
-- [[3 How I got into Card Magic]]
 - [[2 The Challenge Mindset]]
-- [[4 Mastering Equivoque]]
+- [[3 How I got into Card Magic]]
+
