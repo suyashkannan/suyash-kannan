@@ -18,6 +18,8 @@ This is where I upload all my notes, articles and blogs mostly related to sleigh
 ## Random Notes
 - [[On Infatuation and Love]]
 - [[Logical Fallacies]]
+- [[Improving Sleep]]
+- [[Critically Analyzing a Reseach Paper]]
 
 ## Card Magic
 - [[1 My Repertoire]]
