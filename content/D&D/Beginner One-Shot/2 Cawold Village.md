@@ -21,4 +21,4 @@ NPCs:
 3. Chief's Quarters - The chief - *a Human Male - Tane used to live here with his daughter, who fell victim to the cultists. He investigated the matter, and hasnt been seen for 2 days.*
 4. The Temple - *Lead by the priest Ulfrid, you need to offer 500g to the great hero in order to be eligible to receive his divine blessings. He uses this money to buy materials for the sacrifice.*
 5. The Market - *Giant Salmon vendors, and one farmer selling fruits, another selling veg, and third selling grain and rice. Weapons are not sold in Cawold, although the mercenary Aben can sell her weapons if she is offered enough money.
-6. The mercenary campsite: *this where the players have set up camp.*
+6. The mercenary campsite: *this where the players have set up camp.* 

@@ -17,7 +17,7 @@ She is willing to offer any information. And will also offer a free night's stay
 ==Mara==: Female Human Professional, N. Str 7, Int 10, Wis 13, Dex 12, Con 9, Cha 12. Mara has golden hair and large hazel eyes. She wears well-made clothing and carries a fine stiletto. Mara is depressed and modest. *She has two sons, who have gone missing. 4 yrs -==Bertin and Bailey== twins. Owner of The Great Feast Inn*
 
 ### Information
-Her children were last seen catching giant salmon near the river, to offer to the great hero. She has been going to the temple ever since, with the hope that her children will be found. 
+Her children were last seen catching giant salmon near the river, to offer to the great hero. She has been going to the temple ever since, with the hope that her children will be found.    
 
 # Night time stroll:
 If the players walk out at night, they can spot one of the farmers' children running around near the temple.
@@ -48,4 +48,4 @@ If the players break in at night - they can find notes pointing towards the temp
 
 ---
 
-[[5 Entering the Temple]]
+[[4 Entering the Temple]]

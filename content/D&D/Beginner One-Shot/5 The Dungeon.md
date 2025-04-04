@@ -11,3 +11,4 @@
 10. Proceed to the final fight, where there are - 1 head priest - high elf wizard, 2 cultists - dward and human, and the high priest can use one action to summon a spined devil. If the battle crosses 5 rounds, the dragon awakens and asks for the sacrifice, and if the cleric uses divine intervention to request assistance - the high priest has a scroll of sealing magic under his robe - the rogue can steal it. 
 11. Room 7 leads outside, and players reach the village - happy ending!
 ---
+warhammer: 
