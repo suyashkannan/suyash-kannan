@@ -2,21 +2,21 @@ The continent of Airem worships 13 deities as 'Higher Deities', and worships num
 
 The list of Higher Deities:
 
-| #   | Name                  | Gender  | Domains                                     |
-| --- | --------------------- | ------- | ------------------------------------------- |
-| 1   | The Great Hero        | Male    | Victory, hope, unity, heroism               |
-| 2   | Khraag                | Male    | Death, decay, undead                        |
-| 3   | Ignatius              | Male    | Fire, dragons, destruction                  |
-| 4   | Saintess Yora         | Female  | Piety, devotion, life, health               |
-| 5   | Kartoz                | Male    | Trickery, mischief, misery, bad luck, chaos |
-| 6   | Viviel                | Male    | Harvest, nature, spring, forests, animals   |
-| 7   | Sahelis               | Female  | Bravery, courage, war, fighting spirit      |
-| 8   | Premael               | Sexless | Love, marriage, music, art                  |
-| 9   | Machala               | Female  | Disease, old age, disasters                 |
-| 10  | Bemet                 | Male    | Truth, justice, retribution, righteousness  |
-| 11  | Eretza (Mother Airem) | Female  | Land, mountains, rivers, protection         |
-| 12  | Khorjiga              | Female  | Wrath, fire, anger, evil                    |
-| 13  | ?                     | Male    | Time, wisdom, knowledge                     |
+| #   | Name                  | Gender  | Domains                                         |     |
+| --- | --------------------- | ------- | ----------------------------------------------- | --- |
+| 1   | The Great Hero        | Male    | Victory, hope, unity, heroism                   |     |
+| 2   | Khraag                | Male    | Death, decay, undead                            |     |
+| 3   | Merla                 | Female  | Magic, Wizards                                  |     |
+| 4   | Saintess Yora         | Female  | Piety, devotion, life, health                   |     |
+| 5   | Kartoz                | Male    | Trickery, mischief, misery, bad luck, chaos     |     |
+| 6   | Viviel                | Male    | Harvest, nature, spring, forests, animals       |     |
+| 7   | Sahelis               | Female  | Bravery, courage, war, fighting spirit, *oaths* |     |
+| 8   | Premael               | Sexless | Love, marriage, music, art                      |     |
+| 9   | Machala               | Female  | Disease, old age, disasters                     |     |
+| 10  | Bemet                 | Male    | Truth, justice, retribution, righteousness      |     |
+| 11  | Eretza (Mother Airem) | Female  | Land, mountains, rivers, protection, Motherly   |     |
+| 12  | Khorjiga              | Female  | Wrath, fire, anger, evil, barbarians            |     |
+| 13  | Zeit                  | Male    | Time, wisdom, knowledge                         |     |
 
 ## Higher Deities
 1. **The Great Hero/Bluebearer**  (M) - The unnamed hero who valiantly fought and defeated the tyrant dragon Ignatius. The first emperor of the Bluebanner Empire was a confidant of his. Known only through the memoirs of King Anax I and the divine visions of the clergy anointed by the empire, and very little is known about this deity. Yet, he remains the most popular and widely worshipped. Almost every living creature owes its life to the Bluebearer. Raising the Blue Banner across the continent, he fought Ignatius single handedly, felling him in a single, swift strike; while his armies fought valiantly against the evil forces of Ignatius.
@@ -47,9 +47,9 @@ The list of Higher Deities:
 		- Every year, during the onset of the spring season - The capital issues a notice to all villages, cities, and outposts - The four day long holiday - [[The Spring Festival]], has begun! This festival honors the battle between the hero and the dragon, and celebrates the victory of good over evil. The deity of Spring - Viviel is also worshipped on the first and last day, while the 2nd and 3rd days are dedicated to the hero. 
 		- **Place of worship**: The venerable clergy anointed by the great hero himself, have established sects, and churches all across the continent. Any town, village, city would have at least a small church dedicated to the hero. 
 		- **Rituals:** Chanting the Hymns - for protection, power, wealth, forgiveness etc. Reading the stories of the great hero is said to provide immense courage and strength - which is why the armies of the empire have the priests recite and conduct the chants and rituals given in 'Rise of the Bluebearer' before marching for war. 
-		- **Treasure**: The broadsword used by the Great Hero  is passed down from one king to another - it symbolizes the transfer of power, wisdom, and strength. The broadsword -  a shimmering blade made of speckless silver, with a golden hilt studded with ochre and crimson jewels. A fluted grip allowed for comfortable wielding, as fingers slipped into their natural position. A small rusty iron chain connected to the pommel, onto which hangs the symbol of Mother Airem (read below). It is believed that the divine blade possess mystical qualities, imbuing the wielder with terrifying powers. Numerous people have attempted to thieve and acquire this power, but have failed time and time again. The treasury carefully guards this weapon and ensures that it does not fall into wrong hands.
+		- **Treasure**: The broadsword used by the Great Hero is passed down from one king to another - it symbolizes the transfer of power, wisdom, and strength. The broadsword -  a shimmering blade made of speckless silver, with a golden hilt studded with ochre and crimson jewels. A fluted grip allowed for comfortable wielding, as fingers slipped into their natural position. A small rusty iron chain connected to the pommel, onto which hangs the symbol of Mother Airem (read below). It is believed that the divine blade possess mystical qualities, imbuing the wielder with terrifying powers. Numerous people have attempted to thieve and acquire this power, but have failed time and time again. The treasury carefully guards this weapon and ensures that it does not fall into wrong hands.
 		- **Secret**: The Great Hero does not exist. All of the stories and accounts are myths. A secret that only a few know of, and all others who know or pretend to are sentenced to death. More about this - [[Myth of the Bluebearer]].
-		- ** True Form**: none
+		- **True Form** : none
 
 2. **Bemet** (M) - Eons ago, when man had just begun taking his first steps, the Dwarves were busy forging divine weapons, and establishing impregnable fortresses. From the hottest of forges emerged a child - Bemet Forgeborn - he possessed a terrifying presence. Despite being a mere child, none could hide their intentions from him, and for some reason, lying to him felt impossible. Truth seemed to squirm its way out of the throat, like a spider crawling its way out of a narrow pipe. A beacon of truth, righteousness and justice - he went on to establish the Forgeborn clan, and forged, using his own blood and bones - a warhammer. The Warhammer of Bemet is a clan heirloom and is the most safeguarded treasure of the Forgeborn clan. He ascended to godhood at the ripe age of 20, having defeated the Warha, the Tyrant Slaver who terrorized the continent at the time.
 	- Domain: Truth, Justice, Blacksmith
@@ -114,4 +114,20 @@ The list of Higher Deities:
 	- **Treasure**: While the Saintess never had any possessions, she wore a simple beaded necklace, which she had made with her hands. Hanging from which was a solidified drop of holy water. This necklace is now in possession of the St. Galanodel Church in the forest city of Elefsaria. The only the priests and nuns are allowed to touch and view the exhibit. This necklace doesn't have any special qualities.
 	- **True Form**: A beaded necklace, with the wooden beads as large as moons, forms a circle around an inverted drop of holy water, magically holding its place in air. A huge pale thumb positioned where a limb would be, twitches. The other fingers extend and form a fist, covering the giant droplet. The huge fingers slowly unfurl with holy water dripping from the fingers, splashing on the earth, flooding rivers and lakes. A single massive foot beneath the circle lifts itself and stomps on the ground, sending tremors across the earth. Large river like veins decorate the foot, purple in colour, a stark contrast to the lifeless pale foot. On the droplet, two ethereal faces float side by side. One weeps for her ailing and dying devotees, while the laughs and smiles, not at their pain and sickness, but for the mercy to come. 
 	
-4. **Kartoz** (M) - 
+4. **Kartoz** (M) - Powerful deity - mischievous and playful - played a prank - went too far - banished by other deities - roams around in human form - old man - Chinese - Sun Wukong - find and help out the actual bluebearer. 
+
+
+
+
+
+
+5. **Viviel** (M) - Native American - tall tree - man expand - elf fight - druid prevent tree from dying - become god
+6. **Sahelis, Eretza, Khorjiga** - spectrum female trinity
+7. **Sahelis** - Slavic - paladin/fighter - keeper of oaths - 
+8. **Khorjiga** - Tibetan Gorkha - whatsapp
+9. **Eretza** - Greek - mother deity - Mother Airem - personified continent
+10. **Premael**: 
+11. **Khraag**:
+
+viviel - governs everything in nature that has life
+eretza - governs everything in nature that does not have life

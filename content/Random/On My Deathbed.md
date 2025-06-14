@@ -1,5 +1,5 @@
 I fell in love. 
-It wasn't a long time ago, two or three decades or so perhaps. 
+It wasn't a long time ago, two or three decades ago perhaps. 
 And now that I lie on my deathbed, unable to even sit upright, I must narrate to you how I found love. 
 
 He worked beside me. Right beside me, if memory serves. 
@@ -25,7 +25,8 @@ He had won an award - for something my memory fails me for.
 I was so proud.
 I ran to him. He was standing alone, perhaps fate cleared the room for us. 
 Trembling, I mustered courage. 
-The words swiftly left my lips - No, I dragged every last syllable out of my throat. What followed was a second of silence. Untamed, brutal silence.
+The words swiftly left my lips - No, I dragged every last syllable out of my throat. 
+What followed was a second of silence. Untamed, brutal silence.
 I really regret not looking into his eyes when I said those words. 
 What face was he making? I'll never really know.
 

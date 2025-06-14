@@ -1,2 +1,0 @@
-- Solar Calendar
-- The year length is - 364 days - with two 

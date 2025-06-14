@@ -14,6 +14,7 @@
 - [[Improving Sleep]]
 - [[Critically Analyzing a Research Paper]]
 - [[My Workout Split]]
+- [[IBS Diet Plan]]
 
 ## Card Magic
 - [[1 My Repertoire]]
@@ -27,14 +28,16 @@
 
 ## D&D:
 - One-shots I wrote: ==Players are not supposed to be reading these!==
-	- **The Rise of Ignatius** - [[0 Tutorial One-Shot]]
+	- **The Rise of Ignatius** - [[0 Rise of Ignatius]]
 	- **The Jungle of Horrors** - [[0 Jungle of Horrors]]
 - Some lore for our Homebrew Setting: 
 	- [[Airem]]
+	- 
 - The world of Airem: 
 	- [[0 Physiographic Map]]
 	- [[1 Elevation]]
 	- [[2 Air Circulation]]
-	- [[Calendar]]
+	- [[3 Ocean Circulation]]
+	- [[The Empire's Calendar]]
 	- [[Pantheon]]
 

@@ -85,3 +85,7 @@ Friday: Legs and Arms + Shoulders
 
 Daily 1 hour of Table Tennis
 and 7000 Steps (1 hour of brisk walking after the workout)
+
+5000 steps in the morning - after waking up 
+After workout - treadmill 15-20 mins.
+
