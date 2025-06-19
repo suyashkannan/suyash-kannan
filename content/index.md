@@ -22,10 +22,6 @@
 - [[3 How I got into Card Magic]]
 - [[4 Card Routines]]
 
-## Writing:
-- [[The Cost of Pride]]
-- [[On My Deathbed]]
-
 ## D&D:
 - One-shots I wrote: ==Players are not supposed to be reading these!==
 	- **The Rise of Ignatius** - [[0 Rise of Ignatius]]

@@ -5,18 +5,18 @@ The list of Higher Deities:
 | #   | Name                  | Gender  | Domains                                         |     |
 | --- | --------------------- | ------- | ----------------------------------------------- | --- |
 | 1   | The Great Hero        | Male    | Victory, hope, unity, heroism                   |     |
-| 2   | Khraag                | Male    | Death, decay, undead                            |     |
+| 2   | Machala               | Sexless | Death, decay, undead                            |     |
 | 3   | Merla                 | Female  | Magic, Wizards                                  |     |
 | 4   | Saintess Yora         | Female  | Piety, devotion, life, health                   |     |
 | 5   | Kartoz                | Male    | Trickery, mischief, misery, bad luck, chaos     |     |
 | 6   | Viviel                | Male    | Harvest, nature, spring, forests, animals       |     |
 | 7   | Sahelis               | Female  | Bravery, courage, war, fighting spirit, *oaths* |     |
 | 8   | Premael               | Sexless | Love, marriage, music, art                      |     |
-| 9   | Machala               | Female  | Disease, old age, disasters                     |     |
+| 9   | Khraag                | Male    | Disease, old age, disasters - *khraagfolk*      |     |
 | 10  | Bemet                 | Male    | Truth, justice, retribution, righteousness      |     |
 | 11  | Eretza (Mother Airem) | Female  | Land, mountains, rivers, protection, Motherly   |     |
 | 12  | Khorjiga              | Female  | Wrath, fire, anger, evil, barbarians            |     |
-| 13  | Zeit                  | Male    | Time, wisdom, knowledge                         |     |
+| 13  | Zeit                  | Male    | Time, wisdom, knowledge - **Psions**            |     |
 
 ## Higher Deities
 1. **The Great Hero/Bluebearer**  (M) - The unnamed hero who valiantly fought and defeated the tyrant dragon Ignatius. The first emperor of the Bluebanner Empire was a confidant of his. Known only through the memoirs of King Anax I and the divine visions of the clergy anointed by the empire, and very little is known about this deity. Yet, he remains the most popular and widely worshipped. Almost every living creature owes its life to the Bluebearer. Raising the Blue Banner across the continent, he fought Ignatius single handedly, felling him in a single, swift strike; while his armies fought valiantly against the evil forces of Ignatius.
