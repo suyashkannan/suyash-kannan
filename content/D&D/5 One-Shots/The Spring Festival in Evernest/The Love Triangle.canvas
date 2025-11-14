@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"30a91e330dea0685","type":"text","text":"Arnold did not like this, he told her to stay away from will","x":-718,"y":-507,"width":250,"height":60},
+		{"id":"924ab0c806518db9","type":"text","text":"she found that arnold liked her through one of her friends and cut him off ","x":-752,"y":-341,"width":250,"height":72},
+		{"id":"b763c1c6e16128b7","type":"text","text":"bade farewell and went for religious ceremony","x":-356,"y":-280,"width":250,"height":60},
+		{"id":"c6b86036e103ad83","type":"text","text":"Hia returns after 10 years at the capital doing religious services","x":-420,"y":-120,"width":250,"height":90},
+		{"id":"9ea8251a84176370","type":"text","text":"hia makes up her mind and asks him to meet outside the farmers exchange - where she goes missing","x":5,"y":51,"width":250,"height":109},
+		{"id":"c24bd9a3c8b2274f","type":"text","text":"Hia Galanodel fell in love with Will Woodcarver in her teens","x":-320,"y":-477,"width":250,"height":60},
+		{"id":"030d155b3aea4e02","type":"text","text":"Arnold the heir to the smithy was her best friend and unrequited lover. ","x":100,"y":-447,"width":250,"height":99},
+		{"id":"8a3ff578754854a8","type":"text","text":"???? hia wants to continue the relationship and Will as well","x":-420,"y":80,"width":250,"height":103},
+		{"id":"f7892a0fa035e7a3","type":"text","text":"Will decides to meet her in her room","x":-25,"y":-150,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"d1991a643f258bb5","fromNode":"030d155b3aea4e02","fromSide":"left","toNode":"c24bd9a3c8b2274f","toSide":"right"},
+		{"id":"e5b64b8f88c2a789","fromNode":"c24bd9a3c8b2274f","fromSide":"left","toNode":"30a91e330dea0685","toSide":"right"},
+		{"id":"a0728d0a5157246a","fromNode":"30a91e330dea0685","fromSide":"bottom","toNode":"924ab0c806518db9","toSide":"top"},
+		{"id":"d4fa8143264d8ceb","fromNode":"924ab0c806518db9","fromSide":"right","toNode":"b763c1c6e16128b7","toSide":"left"},
+		{"id":"718655431807b26e","fromNode":"b763c1c6e16128b7","fromSide":"bottom","toNode":"c6b86036e103ad83","toSide":"top"},
+		{"id":"1db26bf7de3dac27","fromNode":"f7892a0fa035e7a3","fromSide":"left","toNode":"c6b86036e103ad83","toSide":"right"},
+		{"id":"568682762053cf03","fromNode":"c6b86036e103ad83","fromSide":"bottom","toNode":"8a3ff578754854a8","toSide":"top"},
+		{"id":"bf36b9074f3d723c","fromNode":"8a3ff578754854a8","fromSide":"right","toNode":"9ea8251a84176370","toSide":"left"}
+	]
+}

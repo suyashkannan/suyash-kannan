@@ -1,0 +1,11 @@
+**Machala** - When time came into existence, it left a hole. [[The Mesh of Fate]] tore - creating a mound of rotting flesh, flies and dust. Like everything, even our time has an end - Machala symbolizes the end of one's time - death. Machala birthed 9(10) children -  [[The Sentinels of Death]], each representing a mode of death. These sentinels brought the will of Zeit into action. A soul must die according to its fate, at the hands of a sentinel. The sentinels carry the [[Yir]] in bottles, to hell - for cleansing. 
+
+- **Symbol** - A 10-pointed star, with the centre colored black - symbolizing the 10 sentinels and their dark origin.
+- **Alignment** - Neutral Evil (NE)
+- **Domains** - Death
+- **Worship** - The general population is religiously ignorant when it comes to Machala. Most are unaware of complex concepts like Yir, Sentinels and the Mesh of Fate. They do understand death and its relation to Machala. Those dying, or those taking care of the dying - worship Machala in their final times - to forgive the mortal, and allow them to spend more time on earth. 
+	- [[Death Warders]] - Men and women who are believed to possess the ability to keep sentinels at bay. They set wards around the death-marked and demand huge sums for it. Most commonfolk have only heard stories of such beings, only the affluent nobles have had chances of interacting with these people. Whether or not they truly possess the ability of ward off sentinels is another matter. 
+	- [[Cult of Machala]] - Those who worship Machala and her Sentinels - conduct ritualistic sacrifices, kill for deity satisfaction and wreak havoc on settlements they descend upon. They have close ties with [[Satanic Cults]] due their similar origin. 
+	- [[Cult of The Sentinels]] - Mortals who have devoted their worship to a specific sentinel, with the hope of being repaid with immunity against the sentinel's domain. They prescribe to the methods of the sentinel and carry out their devilish schemes. 
+- **Treasure** - While Machala doesn't have any possessions, most of the sentinels possess treasures.
+- *True form*: A distorting, convulsing mass of rotting, festering flesh. Dust and flies swirl above its pseudopods. 

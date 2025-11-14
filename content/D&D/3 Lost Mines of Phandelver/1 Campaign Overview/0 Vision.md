@@ -1,0 +1,3 @@
+- Something similar to Lost Mines of Phandelver
+- Mix of Political Intrigue between distressed villagers, racially discriminated goblin tribes, and redband bandits
+- Mystery elements - identity of Gnarazasst the Black Spider (The Count Nara of the ) and Baron McKline who are pulling the strings

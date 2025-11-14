@@ -1,0 +1,1 @@
+Before delving into dinosaur eggs and their parental behaviour, we must first discuss how these eggs were *formed*, i.e. the reproduction of dinosaurs. Now this was a very hotly debated topic before 2017, and the existence of a **cloaca** was hypothesized, but after the discovery of a semi-preserved cloaca in a *psittacosaurus* fossil, 

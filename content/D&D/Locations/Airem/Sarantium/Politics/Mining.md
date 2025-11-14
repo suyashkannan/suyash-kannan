@@ -1,0 +1,1 @@
+they mine deeper - they possess better equipment - [[Powder Uses]]

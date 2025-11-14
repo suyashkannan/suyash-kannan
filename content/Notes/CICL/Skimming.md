@@ -1,0 +1,9 @@
+- look for "however" - crucial term - read before and after it
+- read the section titles 
+- see a name and a number (date) - just go over it - read what comes NEXT
+- read the key words while skimming only, jump over useless words
+- skip over the nuances of the argument - since my goal is to skim
+- only the summary is relevant to us while skimming
+- read the first and last sentences of the paragraphs
+	- know when you've gone too far/missed something important, go back and read the key words of the previous paragraphs
+- skimming comes with a caveat - might miss some imp info - re-read the previous paragraph

@@ -1,0 +1,1 @@
+Human and Gnome Alliance - was remodeled into the council

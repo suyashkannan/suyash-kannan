@@ -1,0 +1,5 @@
+The last [[Enhanced Warriors]] to live. During his battle in the [[Irongate Prison]] against the [[Player Characters - LMOP]], he succumbed to his wounds and died. His body, blew up into a thousand pieces and [[Dhruvarth]] consumed his flesh. 
+
+He was a student at the [[Imperial Academy]], a party member to [[2 NPC Profiles#2. Sir Harro - The Warden|Sir Harro]], [[D&D/Characters/Marioth the Little]] and [[Session 5#The Bad Guys -|Bryce the Trusted]]. He harbored feelings for marioth. And on her command, gave his life to her experiments. Unaware of his feelings, she worked tirelessly on him - the experiments turned him into a completely different person - a child, incapable of making decisions for himself - a puppet, dancing to the tunes of Marioth. He lost his war-forged frame and physique and his green eyes that the village gals loved - turned to hollow holes. He died, and no one shed a single tear. 
+
+His flesh - now inside [[Dhruvarth]]'s body, continues his legacy. 

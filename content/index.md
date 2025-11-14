@@ -15,7 +15,7 @@
 - [[Critically Analyzing a Research Paper]]
 - [[My Workout Split]]
 - [[IBS Diet Plan]]
-
+- [[Writing and Narrating Sword Fighting for D&D]]
 ## Card Magic
 - [[1 My Repertoire]]
 - [[2 The Challenge Mindset]]
@@ -34,6 +34,19 @@
 	- [[1 Elevation]]
 	- [[2 Air Circulation]]
 	- [[3 Ocean Circulation]]
-	- [[The Empire's Calendar]]
+- Ancient History and Divine Wars:
 	- [[Pantheon]]
-
+	- [[Divine Wars]]
+- The Bluebanner Empire:
+	- [[The Empire's Calendar]]
+	- [[The Empire's Structure]]
+	- [[Catholic Hierarchy]]
+- Magic System:
+	- [[Yir]]
+	- [[The Mesh of Fate]]
+- Homebrew Mechanics:
+	- [[Drinking in D&D]]
+	- [[Player Skills]]
+	- [[Large-scale War mechanics]]
+	- [[Custom Spells]]
+	- [[Crafting]]

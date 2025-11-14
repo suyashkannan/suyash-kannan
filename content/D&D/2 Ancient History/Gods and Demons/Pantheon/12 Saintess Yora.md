@@ -1,0 +1,19 @@
+1. **Saintess Yora** (F) - A deity venerated for her unwavering devotion, piety and tireless perseverance towards Mother Airem (Eretza). Favored immensely by Eretza, she became a living vessel of the divine. She performed miracles with ease: curing incurable diseases with a mere touch, breathing life into the dying, and even turning water into healing elixirs. Her popularity grew, drawing the old, the poor and the sick from across the continent, and people from far and wide visited her. She welcomed all, and sent no one away empty handed. She remained celibate all her life, dedicating every moment to worshipping Mother Airem, and renouncing all worldly attachments, devoted solely to fulfilling her divine duty. When she was on her deathbed, it is believed that Eretza herself guided her, hand in hand - like mother and daughter - to her heavenly abode.
+    
+    - Domain: Life, Health and Piety
+    - Symbol: _An inverted drop of holy water, hanging from a beaded necklace._
+    - Alignment: CG
+    - **Worship**:
+        - Religious texts: _Teachings of St. Yora, Adren Galanodel; Healing Chants by St. Yora, St. Yora_
+            
+            - "O Saintess Yora, daughter of Mother Airem,  
+                I beseech thee: protect thy son,  
+                for he hath suffered long,  
+                Thou didst not let the sick depart unwell,  
+                Why then must he suffer beneath thy sacred fane?  
+                Cleanse thy son of his affliction - ==alleviate pain==" - _St. Galanodel's spell - Healing word_
+        - Worshipped by doctors, nurses and clerics belonging to the life domain. The commonfolk and nobility flood her temples during times of plague and disease.
+            
+    - **Rituals/Culture**: During the process of birth giving, midwives often carry a beaded necklace, made of wood, an inverted drop shaped chunk of silver hanging from it. The midwives call upon the Saintess and put the necklace on the woman. This is said to ensure a painless and effortless delivery. Doctors often pray before administering patients, and seek forgiveness when death snatches the lives of their patients away. Her clerics follow in her footsteps. They become celibate, renounce material pleasures, and leave their families behind. They were a recognisable habit: A white shirt/tunic upon which a black robe is draped, wooden sandals, and a beaded necklace bearing the symbol of Saintess Yora. The men wear skull caps, while the women wear a coif. They travel from temple to temple, offering medicine and cure to the ailing. The members of this sect denounce violence. A few members of the sect alone are exempted from this rule, resorting to violence only for self defense.
+    - **Treasure**: While the Saintess never had any possessions, she wore a simple beaded necklace, which she had made with her hands. Hanging from which was a solidified drop of holy water. This necklace is now in possession of the St. Galanodel Church in the forest city of Elefsaria. The only the priests and nuns are allowed to touch and view the exhibit. This necklace doesn't have any special qualities.
+    - **True Form**: A beaded necklace, with the wooden beads as large as moons, forms a circle around an inverted drop of holy water, magically holding its place in air. A huge pale thumb positioned where a limb would be, twitches. The other fingers extend and form a fist, covering the giant droplet. The huge fingers slowly unfurl with holy water dripping from the fingers, splashing on the earth, flooding rivers and lakes. A single massive foot beneath the circle lifts itself and stomps on the ground, sending tremors across the earth. Large river like veins decorate the foot, purple in colour, a stark contrast to the lifeless pale foot. On the droplet, two ethereal faces float side by side. One weeps for her ailing and dying devotees, while the laughs and smiles, not at their pain and sickness, but for the mercy to come.

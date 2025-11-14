@@ -1,0 +1,1 @@
+These are mages that have graduated from either the [[Imperial Academy]] or any [[Empire-recognized academy of War]], mastering the art of weaving spells, bending the laws of nature and proving to be an overall asset in war. Most Battlemages are either awarded titles of [[Knights]] or [[Bluelord]] for their service to [[The Empire's Structure|The Empire]]. 

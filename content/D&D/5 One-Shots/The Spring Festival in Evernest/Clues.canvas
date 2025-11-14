@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"a27bfdffdbabc369","type":"text","text":"Players find themselves in line to welcome the priestess and her nuns","x":-591,"y":-122,"width":250,"height":82},
+		{"id":"74409bffce2e7dfa","type":"text","text":"the tavern games begin!","x":-264,"y":-262,"width":164,"height":60},
+		{"id":"5c2e74afc7aec563","type":"text","text":"The players can pick what games they would like to play.","x":52,"y":-263,"width":250,"height":61},
+		{"id":"5dd51ffa3856ada3","type":"text","text":"They get to interact with a ton of npcs","x":-133,"y":-63,"width":250,"height":60},
+		{"id":"9e19e9117e782cac","type":"text","text":"get to know their suspects","x":232,"y":-64,"width":228,"height":61},
+		{"id":"59e3e12a976fc782","type":"text","text":"once they wake up - go to their assigned duties","x":221,"y":87,"width":250,"height":60},
+		{"id":"d1a1e8b83dd9a980","type":"text","text":"The sheriff comes running up - the priestess hasn't returned to her cabin","x":-156,"y":221,"width":250,"height":99},
+		{"id":"7d291ab2cd75f98d","type":"text","text":"last seen - leaving the cabin (no one knows why)\n\nher cabin - there are torn rags lying in a corner, the door lock has been tampered - the window has cracks. forced entry, someone was searching for something. She has letters addressed to her lover in one corner of the room. \n\nif they find out where she went (behind the carpenter's workshop) - to meet her lover, the son of the carpenter. They can find drag marks and footprints - leading to the forest.\n\nCarpenter's son - loves the priestess, and broke up with her that night. since she is now a nun. the priestess said goodbye and returned to her cabin. \n\nLeave multiple clues that can frame this guy, alongside others. 2 hours of roleplay and light combat (tavern brawl)\n\na madman speaks of a ruined temple of Naldreira (mother of dragons) and Ignatius (the tyrant dragon), and that the followers of this cult developed draconic traits (Sorcery) - the carpenter's son would likely show this trait - scaly lesions, a forked tongue, dragon eyes, nubs for horns, etc (and would hide it with his hood)\n\nfollow him into the ruined temple - infiltrate it - kill the monsters (1 hour) - finish the boss battle and rescue the priestess and celebrate the spring festival!","x":-1000,"y":135,"width":707,"height":465}
+	],
+	"edges":[
+		{"id":"1db58a9252510854","fromNode":"a27bfdffdbabc369","fromSide":"right","toNode":"74409bffce2e7dfa","toSide":"left"},
+		{"id":"79a109ea4beb52d4","fromNode":"74409bffce2e7dfa","fromSide":"right","toNode":"5c2e74afc7aec563","toSide":"left"},
+		{"id":"e6548534ca79f186","fromNode":"5c2e74afc7aec563","fromSide":"bottom","toNode":"5dd51ffa3856ada3","toSide":"top"},
+		{"id":"2da836ef0543eb83","fromNode":"5dd51ffa3856ada3","fromSide":"right","toNode":"9e19e9117e782cac","toSide":"left"},
+		{"id":"75f35e6a6b76e19f","fromNode":"9e19e9117e782cac","fromSide":"bottom","toNode":"59e3e12a976fc782","toSide":"top"},
+		{"id":"1b0a8dbcea96128a","fromNode":"59e3e12a976fc782","fromSide":"left","toNode":"d1a1e8b83dd9a980","toSide":"right"},
+		{"id":"5d806f059627504f","fromNode":"d1a1e8b83dd9a980","fromSide":"left","toNode":"7d291ab2cd75f98d","toSide":"right"}
+	]
+}

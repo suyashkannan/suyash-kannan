@@ -1,0 +1,2 @@
+- https://youtu.be/AINfRhu_OJo?si=vWExA_G4VE0LhqWX&t=337 Dice Trick - uses clock force principle to force a card - you end up guessing the number they rolled and the card they stopped at
+- https://www.youtube.com/shorts/iCJsXD4oUj0 Mountain Trick - Change Patter - [[Top of the World]] 

@@ -1,0 +1,1 @@
+The only crime worthy of death is sneaking powder out of sarantium.  

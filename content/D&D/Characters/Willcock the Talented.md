@@ -1,0 +1,1 @@
+The royal bard at the King's court - agreed to work in the experiment for gold - died in seconds. [[Satanic Cults]]

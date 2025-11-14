@@ -1,0 +1,6 @@
+- Wind whispering
+- Tree talking
+- Crystal seeing
+- Death seeking
+- Death warding
+- 

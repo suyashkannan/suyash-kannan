@@ -1,0 +1,1 @@
+Protip fpr the minmap/hud: Draw it out ahead of time and then cut it up into each room. Hand your players a new room when they enter it and let them piece the map together. It'll give them the feeling of building their own map and easily track their progression. I'd honestly recommend doing this for smaller dungeons too.

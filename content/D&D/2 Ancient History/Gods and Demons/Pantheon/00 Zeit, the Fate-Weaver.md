@@ -1,0 +1,12 @@
+**Zeit** - The fate weaver - The energy present before life, space and even time. The orchestrator of all the stories told and experienced by mortals. A terribly long time ago, when nothingness was spreading across the ever expanding One Dimension, a single orb emerged. Zeit. He created time. And with time, the orb grew, larger and larger, until it reached its limit. Zeit then created space - to fuel his ceaseless expansion. When death, chaos and life emerged from under his shadow - he decided it was necessary to take form, and enforce order across the One Dimension. He began weaving [[The Mesh of Fate]]. Writing the fate of mortals - on Life Scrolls. Birth, Death and Life - all of it was pre-written, all except for the intervention of Chaos. The checkpoints had been set in place; when and how they would come to be was a matter of its own. A few escaped their fate, some fell prey to it. Zeit continues to weave the fate of every drop of Yir. Divine battles, power play and politics are not a matter of concern for him.  
+
+- **Symbol** - A glowing white orb, with 3 rings surrounding it.
+- **Alignment** - Neutral
+- **Domain** - Wisdom, Knowledge, Fate and Time
+- **Worship**:
+	- Mostly worshipped by scholars, wizards and intellectuals who can comprehend the concepts of Yir, space and time. 
+	- Almost a forgotten deity, no commonly performed rituals are owed to it.
+	- [[Fate Readers]] - Wind Whisperers, Crystal Seers, Tree Talkers, Death Seekers, etc. These people are trained to sense the faint movements in the flow of fate - these npcs can set up shops - beware of fakes though!
+- *True Form*: A shriveled old man, wrinkled face and long lush beard. Wearing tattered robes and small glasses resting on the bridge of his nose. Symbolizing wisdom, knowledge, renunciation, and maturity. 
+- **Treasure** -  [[Life Scrolls]] - A seemingly mundane piece of parchment, with the fate of a mortal written upon it - in a divine tongue only a few can comprehend. Players can "edit" these scrolls - changing the very fate of that mortal - warding off an imminent death, or calling the sentinels a little earlier. 
+- **Domain** - *The One Dimension* - an ever expanding domain, covered in a soft white glow. In the centre of which seated is Zeit. Ceaselessly writing scroll upon scroll, with his fey helpers carrying the scrolls to the stores, to be later transported to the *Yir Falls*. 

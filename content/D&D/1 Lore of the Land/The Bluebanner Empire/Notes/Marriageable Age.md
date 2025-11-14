@@ -1,0 +1,1 @@
+The Empire's law dictates that a woman is allowed to marry once she has reached the age of 19, and a man when he is 18. 

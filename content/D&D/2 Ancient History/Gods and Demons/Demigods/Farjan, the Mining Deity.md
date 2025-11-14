@@ -1,0 +1,5 @@
+- A mining deity, worshipped by Rockseeker Dwarves and Gnomes
+- believed to be the one who granted the first gnomes the knowledge of mining
+- Umpen Boyang is considered to be a vessel of this deity, reborn to grant the knowledge of powder.
+- symbol - A pickaxe inside a triangle, attempting to break out of it.
+- form - a gnome holding a large pickaxe

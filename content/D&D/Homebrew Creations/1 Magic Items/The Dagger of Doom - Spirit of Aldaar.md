@@ -1,0 +1,6 @@
+The dagger is a spatiotemporal dimension of itself - and contained in it is a spirit - the spirit of [[Aldaar of the Hundred Hills]].  Aldaar tempts the wielder to commit heinous crimes - and can momentarily tap into the consciousness of the wielder and retrieve core memories and surface thoughts - which he uses to tempt the player. **During crucial moments, have the player make a DC15 CHA SAVE.** Once the wielder has killed 13 people using the dagger/used 4 charges, the dagger deems the wielder worthy enough to live inside the dagger - and if the wielder consents (or is tricked into consenting) - the dagger will consume the wielder, and kill Aldaar (to his surprise). 
+
+The dagger deals an additional 1d4 damage, and if the victim has less than 10 hp, it deals extra damage of 1d4 (the wielder loses control and begins uncontrollably stabbing the target).
+The dagger has 1 charge, a charge can be spent to kill any creature (below 25 hp) that is NOT hostile towards the wielder. 
+
+The dagger regains a charge each week.
